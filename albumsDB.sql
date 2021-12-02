@@ -1,5 +1,5 @@
 # change LOGIN to your cse login
-use LOGIN;
+use demetrip;
 
 drop table if exists AlbumSong;
 drop table if exists Song;
